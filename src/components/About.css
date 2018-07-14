@@ -1,0 +1,13 @@
+.header-image{
+    width: 100%;
+    margin-top: -2em;
+    margin-bottom: 2em;
+    height: 550px;
+}
+
+.about-profile-pic{
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 350px;
+    height: 350px;
+}
